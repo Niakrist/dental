@@ -1549,6 +1549,12 @@ img {
   }
 }
 
+@media (max-width: 900px) {
+  .hero__title {
+    font-size: 48px;
+  }
+}
+
 @media (max-width: 768px) {
   .header__content-contacts {
     display: none;
